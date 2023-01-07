@@ -1,0 +1,19 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "App for image optimization",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walobwa/image_shrink.git"
+  },
+  "author": "Abel Ombonyo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walobwa/image_shrink/issues"
+  },
+  "homepage": "https://github.com/walobwa/image_shrink#readme"
+}
